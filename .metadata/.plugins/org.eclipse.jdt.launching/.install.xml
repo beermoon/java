@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home" stamp="1663650614064"/>
     <entry loc="C:\Users\lotte6\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre" stamp="1732754114000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home" stamp="1694506207676"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.5.v20241023-1957/jre" stamp="1732786932000"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.5.v20241023-1957" stamp="1732786932000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home" stamp="1626879432000"/>
     <entry loc="C:\Users\lotte6\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957" stamp="1732754114000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home" stamp="1727795074000"/>
 </dirs>
