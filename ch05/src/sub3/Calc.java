@@ -4,6 +4,10 @@ package sub3;
 public class Calc {
 	
 	private static Calc instance = new Calc();
+	public static Calc getInstance() {
+		return instance;
+	}
+	private Calc() {}
 
 		public int plus(int x, int y) {
 			return x + y;
