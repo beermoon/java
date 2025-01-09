@@ -17,6 +17,10 @@ public class Sedan extends Car{
 		// Sedan 클래스 맞게 메서드를 재정의
 		this.speed += speed;
 		
+		if(this.speed > MAX_SPEED) {
+			
+			this.speed = MAX_SPEED;
+		}
 		
 	} 
 	

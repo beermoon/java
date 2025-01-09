@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="sub4.StockAccount"/>
+    <fullyQualifiedTypeName name="sub4.Person"/>
+    <fullyQualifiedTypeName name="sub4.Doctor"/>
+    <fullyQualifiedTypeName name="ch07.sec03.exam02.Phone"/>
 </qualifiedTypeNameHistroy>

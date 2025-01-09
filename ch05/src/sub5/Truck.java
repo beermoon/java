@@ -17,7 +17,6 @@ public class Truck extends Car {
 		
 		this.speed  += (speed - capacity);
 		
-		
 	}
 	
 	
