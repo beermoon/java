@@ -6,4 +6,15 @@
     <fullyQualifiedTypeName name="sub4.Person"/>
     <fullyQualifiedTypeName name="sub4.Doctor"/>
     <fullyQualifiedTypeName name="ch07.sec03.exam02.Phone"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.NoSuchFieldError"/>
+    <fullyQualifiedTypeName name="java.lang.NoSuchMethodException"/>
+    <fullyQualifiedTypeName name="java.lang.SecurityException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.InvocationTargetException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>

@@ -8,7 +8,7 @@ interface Seller {
 	public void sell();
 }
 
-class Customers ???  {
+class Customers implements Buyer,Seller  {
 	
 	@Override 
 	public void sell() {
@@ -25,8 +25,8 @@ class Customers ???  {
 public class Test10 {
 
 	public static void main(String[] args) {
-		Buyer buyer = new buy();
-		Seller seller = new sell();
+		Buyer buyer = new Customers();
+		Seller seller = new Customers();
 		
 		buyer.buy();
 		seller.sell();

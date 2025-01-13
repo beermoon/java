@@ -1,7 +1,7 @@
 package test3;
 
 class Student {
-	static int studentId; // ?
+	public static int studentId; // ?
 	private String studentName;
 	private String major;
 	private int grade;
@@ -37,11 +37,11 @@ public class Test04 {
 		Student kim = new Student( "김유신","국문과",1);
 		kim.studentInfo();
 		
-		Student lee = new Student("김유신","국문과",1);
-		kim.studentInfo();
+		Student lee = new Student("이순신","경제학과",1);
+		lee.studentInfo();
 		
-		Student lim = new Student( "김유신","국문과",1);
-		kim.studentInfo();
+		Student lim = new Student( "임꺽정","경영학과",1);
+		lim.studentInfo();
 
 	}
 

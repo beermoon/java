@@ -1,6 +1,6 @@
 package test3;
 
-public  class Shape {
+abstract  class Shape {
 	public abstract void draw(); 
 }
 
@@ -33,7 +33,7 @@ public class Test09 {
 
 	}
 
-	public void draw(// obj) {
+	public void draw(Shape  obj) {
 			obj.draw();
 	
 }

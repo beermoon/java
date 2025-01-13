@@ -33,15 +33,11 @@ class CarFactory {
 }
 
 
-
-
-
-
 public class Test05 {
 
 	public static void main(String[] args) {
 		
-		CarFactory factory = new CarFactory();
+		CarFactory factory = CarFactory.getInstance();
 		
 		Vehicle avante = factory.createCar("아반떼", 2500);
 		Vehicle sonata = factory.createCar("소나타", 3000);
