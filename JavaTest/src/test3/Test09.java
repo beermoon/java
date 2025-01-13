@@ -35,5 +35,5 @@ public class Test09 {
 
 	public void draw(Shape  obj) {
 			obj.draw();
-	
+	}	
 }

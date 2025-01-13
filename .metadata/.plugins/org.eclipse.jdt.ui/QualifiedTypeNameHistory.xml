@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="sub4.StockAccount"/>
     <fullyQualifiedTypeName name="sub4.Person"/>
@@ -17,4 +16,5 @@
     <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
     <fullyQualifiedTypeName name="java.lang.reflect.InvocationTargetException"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
