@@ -1,6 +1,6 @@
 package sub3;
 
-public class CountThread extends Thread{
+public class CountThread extends Thread {
 	
 	private Count count;
 	
@@ -11,11 +11,11 @@ public class CountThread extends Thread{
 	@Override
 	public void run() {
 		
-		for (int i = 1; i<=100; i++) {
-			count.setNum(i);
+		for(int i=1 ; i<=1000 ; i++) {
+			count.setNum();
 		}
 		
 	}
 	
-	
+
 }
