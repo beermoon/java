@@ -40,5 +40,6 @@ public class StreamFilterTest {
 			.forEach(num -> System.out.print(num + ", "));
 		
 		
+		
 	}
 }
